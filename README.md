@@ -1,4 +1,4 @@
-# node-1
+# node application that modify contact list
 
 node index.js --action list
 
